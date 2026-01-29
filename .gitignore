@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+
+# Django
+media/
+staticfiles/
+.env
+
+# IDEs
+.idea/
+*.iml
+
+# macOS
+.DS_Store
